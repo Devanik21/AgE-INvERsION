@@ -18,7 +18,7 @@ The field of *in vivo* partial reprogramming has transitioned from theoretical p
 ### Future Trajectories and Unsolved Issues
 
 Despite the immense promise for regenerative medicine, several critical challenges remain before clinical translation:
-- **Delivery Mechanisms:** The transition from transgenic animal models to clinically viable gene therapy vectors (e.g., adeno-associated viruses, AAVs, or lipid nanoparticles, LNPs) capable of precise, titratable, and safe delivery of reprogramming factors to target tissues.
+- **Delivery Mechanisms:** The transition from transgenic animal models to clinically viable gene therapy vectors (e.g., adeno-associated viruses (AAVs) or lipid nanoparticles (LNPs)) capable of precise, titratable, and safe delivery of reprogramming factors to target tissues.
 - **Controllability:** Developing fail-safe genetic switches that allow absolute, temporal control over factor expression to prevent accidental oncogenesis.
 - **Understanding Heterogeneity:** Elucidating how different cell types respond to reprogramming stimuli and mapping the precise epigenetic checkpoints that define the "point of no return" between rejuvenation and loss of cell identity.
 
