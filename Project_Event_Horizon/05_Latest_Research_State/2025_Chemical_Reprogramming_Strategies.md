@@ -9,7 +9,7 @@ While genetic delivery of Yamanaka factors (OSKM) has proven effective in revers
 Chemical reprogramming seeks to manipulate the epigenetic state and cellular signaling pathways using purely synthetic, diffusible molecules.
 
 1. **From 7C to 2C Cocktails:**
-   Recent breakthrough research (circa late 2024/2025) has identified specific combinations of small molecules capable of driving partial reprogramming in human cells. Initially, complex multi-compound cocktails (e.g., a seven-compound "7c" cocktail) were shown to reverse multiple aging hallmarks in human dermal fibroblasts. Further refinement has led to minimized combinations, such as a two-compound (2c) cocktail, which retains potent rejuvenating effects *in vitro*.
+   Recent breakthrough research (circa late 2024/2025) has identified specific combinations of small molecules capable of driving partial reprogramming in human cells. Initially, complex multi-compound cocktails (e.g., a seven-compound "7C" cocktail) were shown to reverse multiple aging hallmarks in human dermal fibroblasts. Further refinement has led to minimized combinations, such as a two-compound (2C) cocktail, which retains potent rejuvenating effects *in vitro*.
 
 2. **In Vivo Efficacy (C. elegans):**
    Crucially, these chemical strategies are moving beyond cell culture. *In vivo* application of optimized chemical combinations has been shown to significantly extend both lifespan and healthspan in model organisms like *C. elegans*. This demonstrates that chemically induced partial reprogramming can systematically improve key drivers of aging at the organismal level.
