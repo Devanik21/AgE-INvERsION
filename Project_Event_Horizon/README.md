@@ -8,7 +8,7 @@ Our mandate is absolute: **Reject Iteration. First Principles Only.** We do not 
 
 ## The Objective: Post-Transcriptional Age Reversal
 
-Current approaches to cellular reprogramming rely on the stochastic and potentially oncogenic overexpression of the Yamanaka factors (OSKM). Project Event Horizon seeks to bypass these dangerous transcriptional cascades entirely. We propose **Post-Transcriptional Age Reversal Constructs (PT-ARC)**—synthetic molecules designed to directly reset the physical, epigenetic, and structural substrates of cellular aging to a pluripotent baseline without the risk of teratoma formation or loss of cell identity.
+Current approaches to cellular reprogramming rely on the stochastic and potentially oncogenic overexpression of the Yamanaka factors (OSKM). Project Event Horizon seeks to bypass these dangerous transcriptional cascades entirely. We propose **Post-Transcriptional Age Reversal Constructs (PT-ARCs)**—synthetic molecules designed to directly reset the physical, epigenetic, and structural substrates of cellular aging to a pluripotent baseline without the risk of teratoma formation or loss of cell identity.
 
 ## Repository Structure
 
