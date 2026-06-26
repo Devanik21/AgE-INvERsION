@@ -1312,7 +1312,7 @@ If this repository contributes to academic discussion, please cite it as an inde
 ```bibtex
 @misc{ProjectEventHorizon,
   title   = {Project Event Horizon: Information-Centric Frameworks for Cellular Rejuvenation Beyond Classical Partial Reprogramming},
-  author  = {Nik},
+  author  = {DevaNik},
   year    = {2026},
   publisher = {GitHub},
   note    = {Conceptual research repository},
