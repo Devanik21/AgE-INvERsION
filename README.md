@@ -1,16 +1,14 @@
-# 🧬 Project Event Horizon
+<div align="center">
+
+# AgE INvERsION
+
+
+
+<img width="1800" height="1201" alt="wp9879531-entropy-wallpapers" src="https://github.com/user-attachments/assets/f97fbf49-bdbd-43cb-b43a-30d1fa244f61" />
 
 ### *A Research Repository Exploring Information-Centric Frameworks for Cellular Rejuvenation Beyond Classical Partial Reprogramming*
 
-<p align="center">
 
-![Status](https://img.shields.io/badge/Status-Active%20Research-blue?style=for-the-badge)
-![Framework](https://img.shields.io/badge/Framework-Theoretical%20Biology-6A5ACD?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Cellular%20Rejuvenation-2E8B57?style=for-the-badge)
-![Scope](https://img.shields.io/badge/Scope-Conceptual%20Research-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)
-
-</p>
 
 ---
 
@@ -1325,7 +1323,7 @@ If this repository contributes to academic discussion, please cite it as an inde
 
 # License
 
-Unless otherwise indicated, repository contents are distributed under the MIT License.
+Unless otherwise indicated, repository contents are distributed under the Apache-2.0 license.
 
 Readers remain responsible for ensuring appropriate attribution and compliance with the repository license.
 
@@ -1394,3 +1392,12 @@ Rather, it will have organized difficult questions into a coherent framework tha
 ---
 
 > **"Every established scientific theory began as a question. Every meaningful question deserves careful, transparent, and rigorous exploration."**
+
+
+<p align="center">
+
+![Status](https://img.shields.io/badge/Status-Active%20Research-blue?style=for-the-badge)
+![Framework](https://img.shields.io/badge/Framework-Theoretical%20Biology-6A5ACD?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Cellular%20Rejuvenation-2E8B57?style=for-the-badge)
+![Scope](https://img.shields.io/badge/Scope-Conceptual%20Research-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Apache-2.0-license-black?style=for-the-badge)
